@@ -74,3 +74,4 @@ Your report should include:
 ---
 # Result
 ![Output](Exp10.jpeg)
+![Output](graph.jpeg)
